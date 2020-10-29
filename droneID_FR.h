@@ -13,7 +13,7 @@
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 /*
- * Initial version by Pierre Kancir on May 2020 on funding by Airbot Systems
+ *  version 1 https://discuss.ardupilot.org/t/open-source-french-drone-identification/56904/98
  *
  */
 
