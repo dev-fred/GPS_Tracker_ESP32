@@ -13,7 +13,7 @@
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 /*
- * version 1 https://discuss.ardupilot.org/t/open-source-french-drone-identification/56904/98
+ *  version 1 https://discuss.ardupilot.org/t/open-source-french-drone-identification/56904/98
  *
  */
 
