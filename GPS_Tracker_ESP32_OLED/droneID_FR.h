@@ -14,7 +14,7 @@
  */
 /*
  *  version 1 https://discuss.ardupilot.org/t/open-source-french-drone-identification/56904/98
- *
+ *  https://github.com/f5soh/balise_esp32/blob/master/droneID_FR.h 
  */
 
 
