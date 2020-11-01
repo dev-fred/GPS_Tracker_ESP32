@@ -29,7 +29,7 @@
 #include <Wire.h>
 #include <SSD1306.h>
 #include <OLEDDisplayUi.h>
-#include "droneID_FRV1.h"
+#include "droneID_FR.h"
 
 extern "C" {
 	#include "esp_wifi.h"
